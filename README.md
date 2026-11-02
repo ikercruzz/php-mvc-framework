@@ -27,12 +27,5 @@ Configura tu conexión a base de datos en `includes/` y levanta el servidor:
 ```bash
 php -S localhost:3000 -t public
 ```
-
-## ✨ Funcionalidades
-- (lista aquí lo que hace tu app)
-
-## 📸 Capturas
-(agrega 1 o 2 imágenes)
-
 ## 👤 Autor
 Iker De la Cruz · [LinkedIn](https://www.linkedin.com/in/iker-dela-cruz/)
